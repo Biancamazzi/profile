@@ -29,8 +29,9 @@ img{
 
 }
 button {
-  background-color: thistle;
-  border: double;
+  background-color: royalblue;
+  border: none;
+  cursor: pointer;
 }
 .media{
   background-color: #fff;
